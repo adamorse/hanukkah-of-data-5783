@@ -7,3 +7,4 @@ Each night is stored in its own Jupyter Notebook.
 - [Night 1](./night1.ipynb)
 - [Night 2](./night2.ipynb)
 - [Night 3](./night3.ipynb)
+- [Night 4](./night4.ipynb)
